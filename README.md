@@ -1,4 +1,4 @@
-# Camplayer - IP Camera viewer for the Raspberry Pi
+# Camplayer - IP Camera viewer for the Raspberry Pi (buster)
 Use your Raspberry Pi as advanced IP camera viewer.
 The list of supported IP cameras is endless as Camplayer makes use of the RTSP and HTTP protocols for streaming.
 Especially the RTSP protocol is supported by nearly all big brands out there.
